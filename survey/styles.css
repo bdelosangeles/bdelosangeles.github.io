@@ -1,0 +1,11 @@
+body{
+  text-align: center;
+   background-color: #c28db0;
+   color: #dfddde;
+}
+label{ 
+  display: block;
+}
+input{
+   background-color: #7a3563;
+}
