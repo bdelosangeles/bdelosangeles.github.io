@@ -1,0 +1,17 @@
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+main{
+
+
+
+
+background-color: rgba(92, 142, 53, 0.423);
+color: rgba(255, 255, 255, 0.986);
+  border-style: solid;
+  font-weight: bold;
+}
